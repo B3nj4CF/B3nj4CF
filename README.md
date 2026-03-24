@@ -35,7 +35,7 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
 
 <!-- Redes -->
 <p align="center">
-	<a href="TU_LINK_DE_LINKEDIN" target="_blank" style="text-decoration: none;"><img src="linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px; border: none;"></a><a href="https://github.com/B3nj4CF" target="_blank" style="text-decoration: none;"><img src="github-svgrepo-com.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px; border: none;"></a><a href="https://instagram.com/benjaaa_cf" target="_blank" style="text-decoration: none;"><img src="instagram-1-svgrepo-com.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px; border: none;"></a>
+	<a href="https://www.linkedin.com/in/benjamin-campos-fern%C3%A1ndez-54005b337/" target="_blank" style="text-decoration: none;"><img src="linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px; border: none;"></a><a href="https://github.com/B3nj4CF" target="_blank" style="text-decoration: none;"><img src="github-svgrepo-com.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px; border: none;"></a><a href="https://instagram.com/benjaaa_cf" target="_blank" style="text-decoration: none;"><img src="instagram-1-svgrepo-com.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px; border: none;"></a>
 </p>
 
 ---
