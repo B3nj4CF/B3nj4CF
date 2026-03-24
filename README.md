@@ -1,4 +1,6 @@
-<div align="left">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="top" width="70%" style="border: none; padding-right: 20px;">
 
 ### Hey there! 👋
 
@@ -6,22 +8,24 @@ I'm **B3nj4CF**, an Engineering Student passionate about building efficient and 
 
 I love exploring the intersection of clean code and optimal performance. If an interesting challenge or a new technology catches my eye, I'm likely already trying it out.
 
-My main tech stack centers around Python, JavaScript, Java, and PHP. I'm a staunch advocate for Arch Linux as my daily driver and trust PostgreSQL for my data persistence needs.
+My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a staunch advocate for **Arch Linux** as my daily driver and trust **PostgreSQL** for my data persistence needs.
 
-You can check out some of my featured work below.
-
-### Fun Facts:
-
-* 🐧 **I use Arch Linux, BTW.**
+**Fun Facts:**
+* 🐧 **I use Arch Linux.**
 * ☕ Fueled by copious amounts of coffee.
 * 📚 Always reading something new, from technical docs to sci-fi.
-* 🛠️ Hobbies: tinkering with hardware, chess, and learning new things.
+* 🛠️ Hobbies: anime, gym, and building things.
 
-</div>
+    </td>
+    <td valign="top" width="30%" style="border: none;">
+      <img src="https://i.pinimg.com/736x/a1/98/19/a19819e3272f35adf87a80489b790749.jpg" alt="B3nj4CF Avatar" width="100%" style="border-radius: 50%; border: 4px solid #30363d;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Teck Stack & Tools
+### 💻 Tech Stack & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -38,40 +42,16 @@ You can check out some of my featured work below.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="B3nj4CF's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nj4CF&layout=compact&theme=dark" alt="Top Langs" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3nj4CF&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-### 📌 Pinned Projects (Examples)
-
-<div align="center">
-  <table border="0">
+  <table border="0" >
     <tr>
-      <td>
-        <a href="https://github.com/B3nj4CF/repo-name-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=B3nj4CF&repo=repo-name-1&theme=dark" alt="Project 1" />
-        </a>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="B3nj4CF's GitHub Stats" />
       </td>
-      <td>
-        <a href="https://github.com/B3nj4CF/repo-name-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=B3nj4CF&repo=repo-name-2&theme=dark" alt="Project 2" />
-        </a>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nj4CF&layout=compact&theme=dark" alt="Top Langs" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-  <b>Thanks for stopping by! Feel free to connect.</b>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3nj4CF&theme=dark" alt="GitHub Streak" />
 </div>
