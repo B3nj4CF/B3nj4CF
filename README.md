@@ -1,9 +1,20 @@
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" width="70%" style="border: none; padding-right: 20px;">
+<!-- Saludo Inicio -->
+<h1 align="center">Hi 👋, I'm <a href="#" target="blank"> Benjamin</a></h1>
 
-### Hey there! 👋
+<!-- Pais y profesión -->
+<h3 align="center">A passionate developer from Chile &#127464;&#127473;</h3>
 
+<br/>
+
+<div>
+  
+
+<!-- Imagen de la derecha -->
+<a target="_blank" align="center">
+  <img align="right" width="40%" style="max-width: 45%; border-radius: 20px;" alt="B3nj4CF Avatar" src="https://i.pinimg.com/736x/a1/98/19/a19819e3272f35adf87a80489b790749.jpg">
+</a>
+
+<!-- Presentacion e Informacion -->
 I'm **B3nj4CF**, an Engineering Student passionate about building efficient and scalable systems. Currently focused on mastering software architecture and complex problem-solving.
 
 I love exploring the intersection of clean code and optimal performance. If an interesting challenge or a new technology catches my eye, I'm likely already trying it out.
@@ -11,17 +22,31 @@ I love exploring the intersection of clean code and optimal performance. If an i
 My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a staunch advocate for **Arch Linux** as my daily driver and trust **PostgreSQL** for my data persistence needs.
 
 **Fun Facts:**
-* 🐧 **I use Arch Linux.**
-* ☕ Fueled by copious amounts of coffee.
-* 📚 Always reading something new, from technical docs to sci-fi.
-* 🛠️ Hobbies: anime, gym, and building things.
+* **I use Arch Linux.**
+* Fueled by copious amounts of coffee.
+* Always reading something new, from technical docs to sci-fi.
+* Hobbies: anime, gym, and building things.
 
-    </td>
-    <td valign="top" width="30%" style="border: none;">
-      <img src="https://i.pinimg.com/736x/a1/98/19/a19819e3272f35adf87a80489b790749.jpg" alt="B3nj4CF Avatar" width="100%" style="border-radius: 50%; border: 4px solid #30363d;" />
-    </td>
-  </tr>
-</table>
+</div>
+<br/>
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<!-- Redes -->
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <!-- Linkedin -->
+        <a style="margin-left: 10px;"  target="_blank" href="#">
+			    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+       <!-- GitHub -->
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/B3nj4CF">
+		      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <!-- Instagram -->
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/benjaaa_cf">
+			    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45" height="45" alt="Instagram"</a>
+      </div>
+</p>
 
 ---
 
