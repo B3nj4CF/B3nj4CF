@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://api.dicebear.com/8.x/avataaars-neutral/svg?seed=B3nj4CF" alt="B3nj4CF Avatar" width="150" style="border-radius: 50%; border: 4px solid #30363d; padding: 5px;" />
-  <br />
-  <br />
-  <kbd><b>B3nj4CF</b></kbd>
-  <br />
-  <br />
-  <a href="#seguidores"><img src="https://img.shields.io/github/followers/B3nj4CF?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="Followers"></a>
-  <a href="#proyectos"><img src="https://img.shields.io/github/stars/B3nj4CF?label=Stars&style=for-the-badge&color=f0883e&logo=github" alt="Stars"></a>
-</div>
-
----
-
 <div align="left">
 
 ### Hey there! 👋
