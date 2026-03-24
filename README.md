@@ -7,8 +7,6 @@
 <br/>
 
 <div>
-  
-
 <!-- Imagen de la derecha -->
 <a target="_blank" align="center">
   <img align="right" width="40%" style="max-width: 45%; border-radius: 20px;" alt="B3nj4CF Avatar" src="https://i.pinimg.com/736x/a1/98/19/a19819e3272f35adf87a80489b790749.jpg">
@@ -42,8 +40,6 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
   </p>
 </div>
 
----
-
 ### 💻 Tech Stack & Tools
 
 <div align="left">
@@ -55,8 +51,6 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </div>
-
----
 
 ### 📊 GitHub Stats
 
