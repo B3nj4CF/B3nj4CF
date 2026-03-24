@@ -30,7 +30,11 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
 </div>
 <br/>
 
-<h3 align="center" > <img src="https://media.tenor.com/I4tx3dpt2o0AAAAi/loadleave-leave.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<h2 align="center">
+  <img src="https://media.tenor.com/I4tx3dpt2o0AAAAi/loadleave-leave.gif" width="30" height="30" style="vertical-align: middle; margin-right: 20px;">
+  Connect with me
+  <img src="alien-obduction-svgrepo-com.svg" width="30" height="30" style="vertical-align: middle; margin-left: 20px;">
+</h2>
 
 <!-- Redes -->
 <p align="center">
