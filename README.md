@@ -30,16 +30,17 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
 </div>
 <br/>
 
-<h2 align="center">
-  <img src="https://media.tenor.com/I4tx3dpt2o0AAAAi/loadleave-leave.gif" width="30" height="30" style="vertical-align: middle; margin-right: 20px;">
-  Connect with me
-  <img src="alien-obduction-svgrepo-com.svg" width="30" height="30" style="vertical-align: middle; margin-left: 20px;">
-</h2>
+<div align="center" style="border: none; text-decoration: none;">
+  <h3 style="border: none; margin-bottom: 0;">
+    <img src="https://media.tenor.com/I4tx3dpt2o0AAAAi/loadleave-leave.gif" width="30" height="30" style="vertical-align: middle; margin-right: 20px;">
+    Connect with me
+    <img src="alien-obduction-svgrepo-com.svg" width="30" height="30" style="vertical-align: middle; margin-left: 20px;">
+  </h3>
 
-<!-- Redes -->
-<p align="center">
-	<a href="https://www.linkedin.com/in/benjamin-campos-fern%C3%A1ndez-54005b337/" target="_blank" style="text-decoration: none;"><img src="linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px; border: none;"></a><a href="https://github.com/B3nj4CF" target="_blank" style="text-decoration: none;"><img src="github-svgrepo-com.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px; border: none;"></a><a href="https://instagram.com/benjaaa_cf" target="_blank" style="text-decoration: none;"><img src="instagram-1-svgrepo-com.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px; border: none;"></a>
-</p>
+  <p style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/benjamin-campos-fern%C3%A1ndez-54005b337/" target="_blank" style="text-decoration: none;"><img src="linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px; border: none;"></a><a href="https://github.com/B3nj4CF" target="_blank" style="text-decoration: none;"><img src="github-svgrepo-com.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px; border: none;"></a><a href="https://instagram.com/benjaaa_cf" target="_blank" style="text-decoration: none;"><img src="instagram-1-svgrepo-com.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px; border: none;"></a>
+  </p>
+</div>
 
 ---
 
