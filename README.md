@@ -1,39 +1,90 @@
-# ¡Hola! Soy Benja 👋 (B3nj4CF)
-
-Estudiante de Ingeniería apasionado por el desarrollo de software, la automatización y los entornos Unix-like. Actualmente enfocado en fortalecer mis habilidades en desarrollo backend y administración de sistemas.
-
-### 🚀 Sobre mí
-- 🎓 Estudiante de Ingeniería Civil.
-- 🐧 Usuario entusiasta de **Arch Linux** (I use Arch btw).
-- 🛠️ Miembro activo de la comunidad Caelestia.
-- 🔭 Actualmente trabajando en proyectos personales de automatización y web.
-
-### 🛠️ Stack Tecnológico
-
-**Lenguajes:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Bases de Datos:**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Sistemas Operativos:**
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+<div align="center">
+  <img src="https://api.dicebear.com/8.x/avataaars-neutral/svg?seed=B3nj4CF" alt="B3nj4CF Avatar" width="150" style="border-radius: 50%; border: 4px solid #30363d; padding: 5px;" />
+  <br />
+  <br />
+  <kbd><b>B3nj4CF</b></kbd>
+  <br />
+  <br />
+  <a href="#seguidores"><img src="https://img.shields.io/github/followers/B3nj4CF?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="Followers"></a>
+  <a href="#proyectos"><img src="https://img.shields.io/github/stars/B3nj4CF?label=Stars&style=for-the-badge&color=f0883e&logo=github" alt="Stars"></a>
+</div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+<div align="left">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de B3nj4CF" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nj4CF&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+### Hey there! 👋
+
+I'm **B3nj4CF**, an Engineering Student passionate about building efficient and scalable systems. Currently focused on mastering software architecture and complex problem-solving.
+
+I love exploring the intersection of clean code and optimal performance. If an interesting challenge or a new technology catches my eye, I'm likely already trying it out.
+
+My main tech stack centers around Python, JavaScript, Java, and PHP. I'm a staunch advocate for Arch Linux as my daily driver and trust PostgreSQL for my data persistence needs.
+
+You can check out some of my featured work below.
+
+### Fun Facts:
+
+* 🐧 **I use Arch Linux, BTW.**
+* ☕ Fueled by copious amounts of coffee.
+* 📚 Always reading something new, from technical docs to sci-fi.
+* 🛠️ Hobbies: tinkering with hardware, chess, and learning new things.
+
+</div>
 
 ---
 
-### 📫 Contacto
-- **GitHub:** [B3nj4CF](https://github.com/B3nj4CF)
+### 💻 Teck Stack & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="B3nj4CF's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nj4CF&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3nj4CF&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📌 Pinned Projects (Examples)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/B3nj4CF/repo-name-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=B3nj4CF&repo=repo-name-1&theme=dark" alt="Project 1" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/B3nj4CF/repo-name-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=B3nj4CF&repo=repo-name-2&theme=dark" alt="Project 2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for stopping by! Feel free to connect.</b>
+</div>
