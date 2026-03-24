@@ -35,17 +35,7 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
 
 <!-- Redes -->
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <!-- Linkedin -->
-        <a style="margin-left: 10px;"  target="_blank" href="#">
-			    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-       <!-- GitHub -->
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/B3nj4CF">
-		      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <!-- Instagram -->
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/benjaaa_cf">
-			    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45" height="45" alt="Instagram"</a>
-      </div>
+	<a href="TU_LINK_DE_LINKEDIN" target="_blank" style="text-decoration: none;"><img src="linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px; border: none;"></a><a href="https://github.com/B3nj4CF" target="_blank" style="text-decoration: none;"><img src="github-svgrepo-com.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px; border: none;"></a><a href="https://instagram.com/benjaaa_cf" target="_blank" style="text-decoration: none;"><img src="instagram-1-svgrepo-com.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px; border: none;"></a>
 </p>
 
 ---
