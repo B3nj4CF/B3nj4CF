@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+<div>    
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=B3nj4CF&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="B3njaCF" 
@@ -11,3 +13,4 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=B3nj4CF&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Benjamin" /></p>
+</div>
