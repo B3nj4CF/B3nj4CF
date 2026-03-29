@@ -55,7 +55,7 @@ My main tech stack centers around **Python, JavaScript, Java, and PHP**. I'm a s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=dark&count_private=true" height="150" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api?username=B3nj4CF&show_icons=true&theme=dark&count_private=true" height="150" /> -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nj4CF&layout=compact&theme=dark&card_width=350" height="150" />
   
